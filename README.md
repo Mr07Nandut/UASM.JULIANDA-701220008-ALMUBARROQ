@@ -50,14 +50,12 @@ Dengan ketentuuan Tugas: <br><br>
 
 - Login Multi User dengan akses cetak laporan pada pimpinan/admin.<br><br>
 
-![Screenshot (118)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/17190a1c-d95c-4947-8314-7aca5d23a280)
-
-<br>
-<br>
-
 ![Screenshot (112)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/a0a9a1e4-f224-4c11-8f5e-6424035cf281)
 
 <br>
+
+![Screenshot (118)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/17190a1c-d95c-4947-8314-7aca5d23a280)
+
 <br>
 
 ![Screenshot (141)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/441e9d1f-e6ae-4119-85ce-4a6da59d2a53)
