@@ -27,7 +27,9 @@ Dengan ketentuuan Tugas: <br><br>
 - Terdapat fungsi CRUD.<br>
 <br>
 <br>
-sc
+
+![Screenshot (143)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/ed66853b-202d-46bd-bc32-e39ec3dd6abb)
+
 <br>
 <br>
 sc
