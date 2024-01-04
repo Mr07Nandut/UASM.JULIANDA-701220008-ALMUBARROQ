@@ -16,7 +16,7 @@ Dengan ketentuuan Tugas: <br><br>
 ![Screenshot (119)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/28ed4374-81e5-4695-acc2-2ae0fca680db)
 <br>
 <br>
-
+![Screenshot (147)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/90db5156-57b8-496a-8049-9dd5c806575b)
 <br>
 <br>
 <br>
