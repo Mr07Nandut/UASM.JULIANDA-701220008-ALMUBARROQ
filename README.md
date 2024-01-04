@@ -1,12 +1,14 @@
 # UAS M.JULIANDA AL MUBARROQ(701220008) <br>
-## Sistem Manajemen Karyawan Sederhana
+## Sistem Manajemen Karyawan Sederhana <small>nb:website ini juga sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small>
+<br>
+
 ![Screenshot (105)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/88ded801-c2d4-42e7-888f-102f9b76c9a8)
 <br>
 <br>
 <br>
 <br>
-<p>Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2.<br>
-<small>nb:website ini juga sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small></p>
+<p>Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2.
+</p>
 
 <br>
 <br>
