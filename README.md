@@ -18,14 +18,7 @@ Dengan ketentuuan Tugas: <br><br>
 <br>
 <br>
 <br>
-- Terdapat fungsi CRUD.<br><br><br><br>
-sc
-<br><br>
-sc
-<br>
-<br>
-<br>
-<br>
+
 
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br><br>
 
