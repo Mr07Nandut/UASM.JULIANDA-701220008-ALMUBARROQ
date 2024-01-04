@@ -44,6 +44,7 @@ Dengan ketentuan Tugas: <br><br>
 <br>
 <br>
 <br>
+
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
 ![Screenshot (111)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/95722483-e307-45b6-8d57-58065e0f4702)
