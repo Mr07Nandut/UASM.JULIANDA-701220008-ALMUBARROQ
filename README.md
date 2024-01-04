@@ -10,7 +10,7 @@ Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tuga
 <br>
 <br>
 <br>
-Dengan ketentuuan Tugas: <br><br>
+Dengan ketentuan Tugas: <br><br>
 
 - Terdapat 9 kolom input data dimana salah satu kolomnya harus ada input gambar, dan memuat minimal 3 tabel database. <br><br><br>
 ![Screenshot (119)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/28ed4374-81e5-4695-acc2-2ae0fca680db)
