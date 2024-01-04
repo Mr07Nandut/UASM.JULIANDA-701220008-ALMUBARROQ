@@ -26,20 +26,19 @@ Dengan ketentuuan Tugas: <br><br>
 
 - Terdapat fungsi CRUD.<br>
 <br>
-<br>
 
 ![Screenshot (143)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/ed66853b-202d-46bd-bc32-e39ec3dd6abb)
 
 <br>
 <br>
 
+![Screenshot (140)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/e7fc1fd0-71f7-47f0-8de9-65713cb9dca5)
 
-
 <br>
 <br>
 <br>
 <br>
-- Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br><br>
+- Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
 sc
 <br>
@@ -47,7 +46,7 @@ sc
 <br>
 <br>
 
-- Login Multi User dengan akses cetak laporan pada pimpinan/admin.<br><br><br>
+- Login Multi User dengan akses cetak laporan pada pimpinan/admin.<br><br>
 
 
 <br>
