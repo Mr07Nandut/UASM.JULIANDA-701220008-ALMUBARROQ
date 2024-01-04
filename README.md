@@ -40,7 +40,10 @@ Dengan ketentuuan Tugas: <br><br>
 <br>
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
-sc
+![Screenshot (111)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/95722483-e307-45b6-8d57-58065e0f4702)
+
+<br>
+(karena perusahaan ini hanya karangan dari saya jadi untuk alamat dari web PT KampungKu ini menggunakan alamat kelurahan tempat tinggal saya, yang kedepannya bisa menyesuaikan alamat pemilik web) 
 <br>
 <br>
 <br>
