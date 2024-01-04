@@ -67,7 +67,7 @@ Dengan ketentuuan Tugas: <br><br>
 <br>
 <br>
 
-### Silahkan import terlebih dahulu database yang sudah di buat pada folder database. <br><br><br>
+### Silahkan import terlebih dahulu database yang sudah di buat pada folder database. <br><br>
 
 Untuk mengakses halaman admin, login ke halaman login admin :<br>
 username : admin	<br>
