@@ -1,6 +1,6 @@
 # UAS M.JULIANDA AL MUBARROQ(701220008) <br>
 ## Sistem Manajemen Karyawan Sederhana 
-<small>nb:website ini juga sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small>
+<small>nb:website ini sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small>
 <br>
 
 
