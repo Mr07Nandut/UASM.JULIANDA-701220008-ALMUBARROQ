@@ -42,7 +42,6 @@ Dengan ketentuuan Tugas: <br><br>
 
 ![Screenshot (111)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/95722483-e307-45b6-8d57-58065e0f4702)
 
-<br>
 (karena perusahaan ini hanya karangan dari saya jadi untuk alamat dari web PT KampungKu ini menggunakan alamat kelurahan tempat tinggal saya, yang kedepannya bisa menyesuaikan alamat pemilik web) 
 <br>
 <br>
@@ -51,6 +50,7 @@ Dengan ketentuuan Tugas: <br><br>
 
 - Login Multi User dengan akses cetak laporan pada pimpinan/admin.<br><br>
 
+![Screenshot (112)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/a0a9a1e4-f224-4c11-8f5e-6424035cf281)
 
 <br>
 <br>
