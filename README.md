@@ -5,6 +5,7 @@
 <br>
 <br>
 <br>
+<br>
 Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2
 <br>
 <br>
@@ -44,6 +45,14 @@ sc
 <br>
 <br>
 <br>
+### Silahkan import terlebih dahulu database yang sudah di buat pada folder database. <br><br><br>
 
-
-
+Untuk mengakses halaman admin, login ke halaman login admin :<br>
+username : admin	<br>
+password : admin123 <br>
+<br>
+<br>
+Untuk mengakses halaman user, dapat melakukan registerasi terlebih dahulu.<br>
+Namun boleh menggunakan akun bawaan <br>
+username : julianda<br>
+password : julianda<br>
