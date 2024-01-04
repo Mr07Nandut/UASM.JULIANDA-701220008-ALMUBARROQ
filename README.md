@@ -82,4 +82,4 @@ Namun boleh menggunakan akun bawaan <br>
 username : julianda<br>
 password : julianda<br>
 <p>
-Jangan lewatkan kesempatan untuk menjelajahi lebih banyak hal menarik di website KampoengKu dengan mengunjungi segera website kami dengan cara <a href="https://uas-m.000webhostapp.com/">klik disini</a> dan nikmati pengalaman berkualitas tanpa biaya dan waktu tambahan. Terima kasih atas perhatian Anda, dan kami berharap dapat menyambut Anda di <s>Tanjung Raden</s> KampoengKu Mart! </p>
+Jangan lewatkan kesempatan untuk menjelajahi lebih banyak hal menarik di website KampoengKu dengan mengunjungi segera website kami dengan cara <a href="https://uas-m.000webhostapp.com/">klik disini</a> dan nikmati pengalaman berkualitas tanpa biaya dan waktu tambahan.<br> Terima kasih atas perhatian Anda, dan kami berharap dapat menyambut Anda di <s>Tanjung Raden</s> KampoengKu Mart! </p>
