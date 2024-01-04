@@ -32,7 +32,9 @@ Dengan ketentuuan Tugas: <br><br>
 
 <br>
 <br>
-sc
+
+![Screenshot (141)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/441e9d1f-e6ae-4119-85ce-4a6da59d2a53)
+
 <br>
 <br>
 <br>
