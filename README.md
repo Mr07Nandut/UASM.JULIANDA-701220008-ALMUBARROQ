@@ -60,10 +60,13 @@ Dengan ketentuuan Tugas: <br><br>
 <br>
 <br>
 
+![Screenshot (142)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/f6cfe402-3f65-40d4-9dd8-eb1903cfd759)
+
 <br>
 <br>
 <br>
 <br>
+
 ### Silahkan import terlebih dahulu database yang sudah di buat pada folder database. <br><br><br>
 
 Untuk mengakses halaman admin, login ke halaman login admin :<br>
