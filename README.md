@@ -49,7 +49,8 @@ Dengan ketentuan Tugas: <br><br>
 
 ![Screenshot (111)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/95722483-e307-45b6-8d57-58065e0f4702)
 
-(karena perusahaan ini hanya karangan dari saya jadi untuk alamat dari web PT KampungKu ini menggunakan alamat kelurahan tempat tinggal saya, yang kedepannya bisa menyesuaikan alamat pemilik web) 
+
+<small>nb:karena perusahaan ini hanya karangan dari saya jadi untuk alamat dari web PT KampungKu ini menggunakan alamat kelurahan tempat tinggal saya yaitu Kelurahan Tanjung Raden, yang kedepannya bisa menyesuaikan alamat pemilik web</small>
 <br>
 <br>
 <br>
