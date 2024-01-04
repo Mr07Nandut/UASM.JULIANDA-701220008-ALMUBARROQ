@@ -1,11 +1,11 @@
 # UAS M.JULIANDA AL MUBARROQ(701220008) <br>
 ## Sistem Manajemen Karyawan Sederhana 
-<small>nb:website ini sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small>
+
 <br>
 
 
 ![Screenshot (105)](https://github.com/Mr07Nandut/UASM.JULIANDA-701220008-ALMUBARROQ/assets/147566714/88ded801-c2d4-42e7-888f-102f9b76c9a8)
-
+<small>nb:website ini sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan</small>
 
 <br>
 <br>
