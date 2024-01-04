@@ -6,7 +6,8 @@
 <br>
 <br>
 <br>
-Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2
+Website Sistem Manajemen Karyawan Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2.<br>
+nb:website ini juga sudah saya hosting menggunakan hosting-domain gratis yang akan saya sertakan linknya di akhir penjelasan
 <br>
 <br>
 <br>
